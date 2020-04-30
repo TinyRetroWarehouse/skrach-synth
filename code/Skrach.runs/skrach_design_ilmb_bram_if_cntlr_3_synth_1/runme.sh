@@ -20,7 +20,7 @@ else
 fi
 export LD_LIBRARY_PATH
 
-HD_PWD='/home/dshchur/homework/csce_436_shchur/final/code/Skrach.runs/skrach_design_ilmb_bram_if_cntlr_3_synth_1'
+HD_PWD='/home/dshchur/csce_436_shchur/final/code/Skrach.runs/skrach_design_ilmb_bram_if_cntlr_3_synth_1'
 cd "$HD_PWD"
 
 HD_LOG=runme.log
